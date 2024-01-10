@@ -28,7 +28,7 @@ The Task Reminder App is a simple yet powerful tool that helps you stay on top o
 
 - **Home Screen**
   
-  ![Home]()
+  ![Home](https://github.com/tuljeshrahul/ToDoApp/blob/090d88e511cd6d7ca2bbc106245f675d278d3c43/images/screenshot/Home%20Screen.png)
 
 - **Add and Update Task**
   
