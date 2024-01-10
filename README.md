@@ -32,7 +32,7 @@ The Task Reminder App is a simple yet powerful tool that helps you stay on top o
 
 - **Add and Update Task**
   
-  ![Add Task]()
+  ![Add Task](https://github.com/tuljeshrahul/ToDoApp/blob/934fe68ddfc12323b1884dc958a16a2cda17e139/images/screenshot/Action%20modal.png)
   ![Update Task]()
 
 - **Action Modal**
