@@ -37,29 +37,29 @@ The Task Reminder App is a simple yet powerful tool that helps you stay on top o
 
 - **Action Modal**
   
-  ![Action Modal]()
+  ![Action Modal](https://github.com/tuljeshrahul/ToDoApp/blob/e79baff53601f35546d82b4b52c623c86db9497f/images/screenshot/Action%20modal.png)
 
 - **Delete Tasks**
   
-  ![Delete]()
+  ![Delete](https://github.com/tuljeshrahul/ToDoApp/blob/e79baff53601f35546d82b4b52c623c86db9497f/images/screenshot/Delete%20and%20Task%20complete.png)
 
 - **Mark Tasks as Complete**
   
-  ![Mark tasks as complete]()
+  ![Mark tasks as complete](https://github.com/tuljeshrahul/ToDoApp/blob/e79baff53601f35546d82b4b52c623c86db9497f/images/screenshot/Delete%20and%20Task%20complete.png)
 
 - **Task Filter and Export as PDF, CSV, and Excel**
   
-  ![Task filter and Export as PDF, CSV, and Excel]()
+  ![Task filter and Export as PDF, CSV, and Excel](https://github.com/tuljeshrahul/ToDoApp/blob/e79baff53601f35546d82b4b52c623c86db9497f/images/screenshot/task%20filter%20and%20export%20as%20pdf%2Ccsv%2C%20and%20excel.png)
 
 - **Short Tasks by Date**
   
-  ![Short tasks by date]()
-  ![Short tasks by date]()
+  ![Short tasks by date](https://github.com/tuljeshrahul/ToDoApp/blob/e79baff53601f35546d82b4b52c623c86db9497f/images/screenshot/Date%20list.png)
+  ![Short tasks by date](https://github.com/tuljeshrahul/ToDoApp/blob/e79baff53601f35546d82b4b52c623c86db9497f/images/screenshot/Date%20list.png)
 
 - **Notification**
   
-  ![Notification]()
-  ![Notification]()
+  ![Notification](https://github.com/tuljeshrahul/ToDoApp/blob/e79baff53601f35546d82b4b52c623c86db9497f/images/screenshot/Notification.png)
+  ![Notification](https://github.com/tuljeshrahul/ToDoApp/blob/e79baff53601f35546d82b4b52c623c86db9497f/images/screenshot/Nav%20notification.png)
 
 ### Dependencies
 
