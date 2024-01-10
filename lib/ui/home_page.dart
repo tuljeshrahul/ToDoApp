@@ -253,8 +253,8 @@ class _HomePageState extends State<HomePage> {
       margin: const EdgeInsets.only(top: 20, left: 10),
       child: DatePicker(
         DateTime.now(),
-        height: 125,
-        width: 80,
+        width : MediaQuery.of(context).size.width,
+        height : MediaQuery.of(context).size.height,
         initialSelectedDate: DateTime.now(),
         selectionColor: primaryColor,
         selectedTextColor: Colors.white,
