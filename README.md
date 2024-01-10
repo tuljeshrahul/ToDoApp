@@ -1,4 +1,4 @@
-# Task Reminder App
+# To-Do List App
 
 ## Description
 
