@@ -4,6 +4,24 @@
 
 The Task Reminder App is a simple yet powerful tool that helps you stay on top of your to-dos. With its intuitive interface and comprehensive features, you can easily create, track, and complete tasks, never miss a deadline, and stay organized.
 
+### Installation
+
+1. Clone the repository
+
+ ```sh
+  git clone https://github.com/tuljeshrahul/ToDoApp.git
+ ```
+2. Install dependencies
+
+ ```sh
+   flutter pub get
+  ```
+3. Run the app
+   
+  ```sh
+    flutter run
+  ```
+
 ## Features
 
 ### Task Management:
